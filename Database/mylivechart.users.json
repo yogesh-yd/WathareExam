@@ -1,0 +1,4 @@
+{ "_id" : ObjectId("64c28605c4c9a7aa8362ef3f"), "country" : "india", "median_age" : 35 }
+{ "_id" : ObjectId("64c2896c1ec3023b86e12579"), "country" : "china", "median_age" : "28", "__v" : 0 }
+{ "_id" : ObjectId("64c2897f1ec3023b86e1478b"), "country" : "iran", "median_age" : "22", "__v" : 0 }
+{ "_id" : ObjectId("64c2907ef486d6c373bb4cac"), "country" : "wathare", "median_age" : "26", "__v" : 0 }
